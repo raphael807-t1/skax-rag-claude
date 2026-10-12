@@ -1,0 +1,6 @@
+qdrant-client
+FlagEmbedding
+torch
+langchain-text-splitters
+numpy
+mcp
