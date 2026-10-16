@@ -4,3 +4,5 @@ torch
 langchain-text-splitters
 numpy
 mcp
+beautifulsoup4
+requests
